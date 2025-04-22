@@ -1,4 +1,4 @@
-### FileSplit
+# FileSplit
 
 > ⚠️ **Warning:** This currently only works for Windows 7 and higher. But I plan to make a `.NET 4.0-Version` for Windows XP too!
 
